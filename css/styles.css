@@ -553,7 +553,6 @@ footer {
 	left: 0;
 	overflow: hidden;
     background: #fff;
-    border-radius: 4px
     margin:0 0 0 50px;
 }
 
@@ -562,7 +561,6 @@ footer {
 	right:0;
 	overflow: hidden;
     background: #fff;
-    border-radius: 4px
     margin:0 50px 0 0;
 }
 
