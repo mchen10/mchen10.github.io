@@ -576,6 +576,15 @@ footer {
 	margin: 0 0 0 20px;
 }
 
+.project-image-2 {
+	display: inline-block;
+}
+
+.project-description {
+	position: absolute;
+	bottom:0 ;
+}
+
 .project-image {
     position: absolute;
     left: 0;
