@@ -544,13 +544,18 @@ footer {
     border-radius: 4px
 }
 
+.row {
+	position:relative;
+}
+
 .project-left {
-	float:left
+	position:absolute;
+	left: 0;
 }
 
 .project-right {
 	position: absolute;
-	margin-left:200px;
+	right:0;
 }
 
 .project-image {
