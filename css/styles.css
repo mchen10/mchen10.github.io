@@ -553,7 +553,7 @@ footer {
 .project-left {
 	position:absolute;
 	left: 0;
-	overflow: hidden;
+	height:auto;
     background: #fff;
     margin:0 0 0 50px;
 }
@@ -561,7 +561,7 @@ footer {
 .project-right {
 	position: absolute;
 	right:0;
-	overflow: hidden;
+	height:auto;
     background: #fff;
     margin:0 50px 0 0;
 }
