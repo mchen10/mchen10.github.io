@@ -564,8 +564,16 @@ footer {
 }
 
 .project-header {
-	background: #fff;
+	background-color:rgba(255,255,255,0);
 	margin-top: -15px;
+}
+
+.project-header h3 {
+	margin: 10px 0 0 20px;
+}
+
+.project-header p {
+	margin: 0 0 0 20px;
 }
 
 .project-image {
