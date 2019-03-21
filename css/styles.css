@@ -545,6 +545,7 @@ footer {
 }
 
 .project-row {
+	position:relative;
 	margin-bottom: 30px
 }
 
