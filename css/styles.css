@@ -549,6 +549,7 @@ footer {
 }
 
 .project-right {
+	position: absolute;
 	margin-left:200px;
 }
 
