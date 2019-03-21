@@ -548,7 +548,6 @@ footer {
 	position:relative;
 	margin-bottom: 30px;
 	height:auto;
-	overflow: auto;
 }
 
 .project-left {
@@ -568,7 +567,8 @@ footer {
 }
 
 .project-image {
-    float: left
+    position: absolute;
+    left: 0;
 }
 
 .project-info {
