@@ -557,6 +557,10 @@ footer {
 	width:50%;
 }
 
+.project-header {
+	background: #fff;
+}
+
 .project-image {
     position: absolute;
     left: 0;
