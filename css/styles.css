@@ -552,15 +552,14 @@ footer {
 
 .project-left {
 	position:absolute;
-	left: 0;
+	left: 10%;
 	height:auto;
     background: #fff;
     margin:0 0 0 50px;
 }
 
 .project-right {
-	position: absolute;
-	right:0;
+	margin-left: 10%;
 	height:auto;
     background: #fff;
     margin:0 50px 0 0;
