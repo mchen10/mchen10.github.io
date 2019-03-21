@@ -548,6 +548,10 @@ footer {
 	float:left
 }
 
+.project-right {
+	margin-left:200px;
+}
+
 .project-image {
     float: left
 }
