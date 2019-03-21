@@ -545,21 +545,15 @@ footer {
 }
 
 .project-row {
-	position:relative;
+	display:flex;
 	margin-bottom: 30px;
-	height:auto;
 }
 
 .project-left {
-	position:absolute;
-	left: 10%;
-	height:auto;
     background: #fff;
 }
 
 .project-right {
-	margin-left: 50%;
-	height:auto;
     background: #fff;
 }
 
