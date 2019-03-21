@@ -565,11 +565,12 @@ footer {
 }
 
 .project-header {
-	margin-top: -20px;
+	margin-top: -15px;
 }
 
 .project-header h3 {
-	margin: 10px 0 0 20px;
+	margin: 15px 0 0 20px;
+	font-weight:300;
 }
 
 .project-header p {
