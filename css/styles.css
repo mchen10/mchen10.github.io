@@ -550,11 +550,11 @@ footer {
 }
 
 .project-left {
-    background: #fff;
+	width:50%;
 }
 
 .project-right {
-    background: #fff;
+	width:50%;
 }
 
 .project-image {
