@@ -548,6 +548,7 @@ footer {
 	position:relative;
 	margin-bottom: 30px;
 	height:auto;
+	overflow: auto;
 }
 
 .project-left {
@@ -638,7 +639,7 @@ footer {
 
 #contact h2 {
     margin: 0 0 15px 0;
-    color: #fff;
+    color: #000;
     font-weight: 500
 }
 
