@@ -545,17 +545,25 @@ footer {
 }
 
 .row {
-	position:relative;
+	margin-bottom: 30px
 }
 
 .project-left {
 	position:absolute;
 	left: 0;
+	overflow: hidden;
+    background: #fff;
+    border-radius: 4px
+    margin:0 0 0 50px;
 }
 
 .project-right {
 	position: absolute;
 	right:0;
+	overflow: hidden;
+    background: #fff;
+    border-radius: 4px
+    margin:0 50px 0 0;
 }
 
 .project-image {
