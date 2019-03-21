@@ -335,6 +335,10 @@ footer {
     text-align: center
 }
 
+#lead-down span:hover {
+	color: rgba(55, 152, 219);
+}
+
 #lead-down i {
     animation: pulsate 1.5s ease;
     animation-iteration-count: infinite;
