@@ -322,6 +322,10 @@ footer {
     color: rgba(116, 128, 128);
 }
 
+#lead-down:hover {
+	color: rgba(55, 152, 219);
+}
+
 #lead-down span {
     cursor: pointer;
     display: block;
@@ -331,6 +335,10 @@ footer {
     border-radius: 50%;
     border: 3px solid rgba(116, 128, 138);
     text-align: center
+}
+
+#lead-down span:hover {
+	color: rgba(55, 152, 219);
 }
 
 #lead-down i {
