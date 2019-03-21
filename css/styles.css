@@ -544,6 +544,10 @@ footer {
     border-radius: 4px
 }
 
+.project-left {
+	float:left
+}
+
 .project-image {
     float: left
 }
