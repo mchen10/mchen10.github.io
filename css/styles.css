@@ -547,7 +547,7 @@ footer {
 .project-row {
 	position:relative;
 	margin-bottom: 30px;
-	overflow: hidden;
+	height:auto;
 }
 
 .project-left {
