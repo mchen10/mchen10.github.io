@@ -555,14 +555,12 @@ footer {
 	left: 10%;
 	height:auto;
     background: #fff;
-    margin:0 0 0 50px;
 }
 
 .project-right {
-	margin-left: 10%;
+	margin-left: 50%;
 	height:auto;
     background: #fff;
-    margin:0 50px 0 0;
 }
 
 .project-image {
