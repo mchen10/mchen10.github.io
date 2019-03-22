@@ -465,7 +465,7 @@ footer {
 	width:100%;
 	height:auto;
 
-	margin-top: 40%;
+	margin-top: 25%;
 }
 
 .vtimeline-img-2 {
@@ -535,9 +535,15 @@ footer {
     margin-bottom: 50px
 }
 
+.education-activities {
+	display:flex;
+	width:100%;
+}
+
 .education-block {
+	width:40%;
     max-width: 700px;
-    margin: 0 auto 30px auto;
+    margin: 0 5% 30px 5%;
     padding: 15px;
     border: 1px solid #dcd9d9;
     text-align: left
