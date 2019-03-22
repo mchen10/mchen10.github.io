@@ -392,7 +392,7 @@ footer {
     content: '';
     top: 0;
     bottom: 0;
-    left: 303px;
+    left: 273px;
     right: auto;
     height: 100%;
     width: 3px;
@@ -407,7 +407,7 @@ footer {
     height: 40px;
     background: #000;
     top: 100%;
-    left: 303px
+    left: 273px;
 }
 
 .vtimeline-content {
@@ -461,7 +461,7 @@ footer {
 }
 
 .vtimeline-pic img {
-	width:100%;
+	width:99%;
 	height:auto;
 	margin-top: auto;
 	margin-bottom: auto;
@@ -488,7 +488,7 @@ footer {
 
 .vtimeline-date {
     width: 260px;
-    text-align: right;
+    text-align: left;
     position: absolute;
     left: 0;
     top: 10px;
