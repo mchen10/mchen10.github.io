@@ -457,6 +457,7 @@ footer {
     margin-left: 230px;
     background:#fff;
     overflow:hidden;
+    border: 0.5px solid rgba(160, 160, 160, 0.3);
 }
 
 .vtimeline-pic img {
