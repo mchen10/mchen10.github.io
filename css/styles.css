@@ -552,25 +552,16 @@ footer {
 .project-left {
 	background: #fff;
 	position:relative;
-	width:30%;
+	width:40%;
 	border:0.5px solid rgba(160, 160, 160, 0.3);
 	text-align: left;
-	margin-right: 5%;
-}
-
-.project-middle {
-	background: #fff;
-	position:relative;
-	width:30%;
-	border:0.5px solid rgba(160, 160, 160, 0.3);
-	text-align: left;
-	margin-right: 5%;
+	margin-right: 20%;
 }
 
 .project-right {
 	background: #fff;
 	position: relative;
-	width:30%;
+	width:40%;
 	border:0.5px solid rgba(160, 160, 160, 0.3);
 	text-align: left;
 }
