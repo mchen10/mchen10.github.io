@@ -593,6 +593,7 @@ footer {
 
 .project-header a:hover {
 	color:rgba(55, 152, 219);
+	text-decoration: none;
 }
 
 .project-header p {
