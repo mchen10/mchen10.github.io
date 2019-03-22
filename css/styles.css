@@ -552,23 +552,22 @@ footer {
 .project-left {
 	background: #fff;
 	position:relative;
-	width:40%;
+	width:45%;
 	border:0.5px solid rgba(160, 160, 160, 0.3);
 	text-align: left;
-	margin-right: 20%;
+	margin-right: 10%;
 }
 
 .project-right {
 	background: #fff;
 	position: relative;
-	width:40%;
+	width:45%;
 	border:0.5px solid rgba(160, 160, 160, 0.3);
 	text-align: left;
 }
 
 .project-header {
 	margin-top: -15px;
-	margin-bottom: 10px;
 	border-bottom: 0.5px solid rgba(160, 160, 160, 0.3);
 }
 
