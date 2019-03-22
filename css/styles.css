@@ -577,6 +577,7 @@ footer {
 
 .project-header {
 	margin-top: -15px;
+	margin-bottom: 10px;
 	border-bottom: 0.5px solid rgba(160, 160, 160, 0.3);
 }
 
@@ -586,7 +587,8 @@ footer {
 }
 
 .project-header p {
-	padding: 0 0 0 20px;
+	padding: -10px 0 0 20px;
+	font-weight:200;
 }
 
 .project-image-2 {
@@ -602,7 +604,7 @@ img {
 	position: absolute;
 	width: 100%;
 	bottom:0 ;
-	background: rgba(255, 255, 255, 0.6);
+	background: rgba(255, 255, 255, 0.7);
 }
 
 .project-description p {
