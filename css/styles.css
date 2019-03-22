@@ -462,6 +462,9 @@ footer {
 .vtimeline-pic img {
 	width:100%;
 	height:auto;
+	margin-top: auto;
+	margin-bottom: auto;
+	display:block;
 }
 
 .vtimeline-icon {
