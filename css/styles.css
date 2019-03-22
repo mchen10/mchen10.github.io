@@ -541,7 +541,7 @@ footer {
 }
 
 .education-block {
-	width:40.5%;
+	width:45.5%;
     max-width: 700px;
     margin: 0 1.5% 30px 3%;
     padding: 15px;
@@ -550,7 +550,7 @@ footer {
 }
 
 .activities-block {
-	width:40.5%;
+	width:45.5%;
     max-width: 700px;
     margin: 0 3% 30px 1.5%;
     padding-left: 30px;
@@ -580,9 +580,9 @@ footer {
 .activities-block h5 {
     color: #74808a;
     clear: both;
-    font-weight: 600;
+    font-weight: 500;
     margin: 10px 0 10px 0;
-    font-size:1.2em;
+    font-size:1em;
 }
 
 .education-block p,
@@ -594,6 +594,13 @@ footer {
 
 .education-block ul {
     padding: 0 0 0 15px
+}
+
+.activities-block p,
+.activities-block ul {
+    margin: 0;
+    color: #74808a;
+    font-size: 0.9em
 }
 
 #projects {
