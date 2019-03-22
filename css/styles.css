@@ -392,7 +392,7 @@ footer {
     content: '';
     top: 0;
     bottom: 0;
-    left: 273px;
+    left: 283px;
     right: auto;
     height: 100%;
     width: 3px;
@@ -407,7 +407,7 @@ footer {
     height: 40px;
     background: #000;
     top: 100%;
-    left: 273px;
+    left: 283px;
 }
 
 .vtimeline-content {
@@ -461,12 +461,37 @@ footer {
     padding:5px;
 }
 
-.vtimeline-pic img {
-	width:99%;
+.vtimeline-img-1 {
+	width:100%;
 	height:auto;
-	margin-left: auto;
-	margin-right: auto;
-	display:block;
+
+	margin-top: 40%;
+}
+
+.vtimeline-img-2 {
+	width:100%;
+	height:auto;
+}
+
+.vtimeline-img-3 {
+	width:100%;
+	height:auto;
+
+	margin-top: 20%;
+}
+
+.vtimeline-img-4 {
+	width:90%;
+	height:auto;
+
+	margin-right: 5%;
+}
+
+.vtimeline-img-5 {
+	width:90%;
+	height:auto;
+
+	margin-right: 5%;
 }
 
 .vtimeline-icon {
