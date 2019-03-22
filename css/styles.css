@@ -541,9 +541,9 @@ footer {
 }
 
 .education-block {
-	width:45%;
+	width:40%;
     max-width: 700px;
-    margin: 0 2.5% 30px 2.5%;
+    margin: 0 0 30px 10%;
     padding: 15px;
     border: 1px solid #dcd9d9;
     text-align: left
@@ -571,8 +571,9 @@ footer {
 .education-block h5 {
     color: #74808a;
     clear: both;
-    font-weight: 500;
+    font-weight: 600;
     margin: 10px 0 10px 0
+    font-size:1.25em;
 }
 
 .education-block p,
