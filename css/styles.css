@@ -585,10 +585,13 @@ footer {
 	padding:0;
 	margin:25px 0 0 15px;
 	font-weight:300;
+}
+
+.project-header a {
 	color:#000
 }
 
-.project-header h3:hover {
+.project-header a:hover {
 	color:rgba(55, 152, 219);
 }
 
@@ -610,7 +613,7 @@ footer {
 .project-image-2 img:hover {
 	width:100%;
 	max-width: 512px;
-	
+
 	-moz-transition: -moz-transform 0.2s ease-out;
     -webkit-transition: -webkit-transform 0.2s ease-out;
     -ms-transition: -ms-transform 0.2s ease-out;
