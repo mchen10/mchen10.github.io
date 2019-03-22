@@ -605,8 +605,13 @@ footer {
 .project-image-2 img {
 	width:100%;
 	max-width: 512px;
+}
 
-    -moz-transition: -moz-transform 0.2s ease-out;
+.project-image-2 img:hover {
+	width:100%;
+	max-width: 512px;
+	
+	-moz-transition: -moz-transform 0.2s ease-out;
     -webkit-transition: -webkit-transform 0.2s ease-out;
     -ms-transition: -ms-transform 0.2s ease-out;
 	transition: transform 0.2s ease-out;
