@@ -541,18 +541,18 @@ footer {
 }
 
 .education-block {
-	width:45%;
+	width:40.5%;
     max-width: 700px;
-    margin: 0 1.25% 30px 2.5%;
+    margin: 0 1.5% 30px 3%;
     padding: 15px;
     border: 1px solid #dcd9d9;
     text-align: left
 }
 
 .activities-block {
-	width:45%;
+	width:40.5%;
     max-width: 700px;
-    margin: 0 2.5 30px 1.25%;
+    margin: 0 3% 30px 1.5%;
     padding-left: 30px;
     border: 1px solid #dcd9d9;
     text-align: left
@@ -581,8 +581,8 @@ footer {
     color: #74808a;
     clear: both;
     font-weight: 600;
-    margin: 10px 0 10px 0
-    font-size:1.25em;
+    margin: 10px 0 10px 0;
+    font-size:1.2em;
 }
 
 .education-block p,
