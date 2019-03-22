@@ -461,6 +461,10 @@ footer {
     padding:5px;
 }
 
+.vtimeline-pic:hover {
+	border: 0.5px solid rgba(55, 152, 219, 0.3);
+}
+
 .vtimeline-img-1 {
 	width:100%;
 	height:auto;
