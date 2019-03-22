@@ -568,6 +568,13 @@ footer {
     margin: 0 0 15px 0
 }
 
+.education-block h5 {
+    color: #74808a;
+    clear: both;
+    font-weight: 500;
+    margin: 10px 0 10px 0
+}
+
 .education-block p,
 .education-block ul {
     margin: 0;
