@@ -583,11 +583,13 @@ footer {
 
 .project-header h3 {
 	padding: 15px 0 0 20px;
+	margin:0;
 	font-weight:300;
 }
 
 .project-header p {
-	padding: -10px 0 0 20px;
+	padding: 0 0 0 20px;
+	margin:0;
 	font-weight:200;
 }
 
@@ -600,10 +602,6 @@ footer {
 	max-width: 512px;
 
 	transition: transform 0.2s ease-out;
-    transition-property: transform;
-    transition-duration: 0.2s;
-    transition-timing-function: ease-out;
-    transition-delay: 0s;
 }
 
 .project-description {
