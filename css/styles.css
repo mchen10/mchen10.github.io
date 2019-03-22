@@ -751,6 +751,7 @@ footer {
 #skills {
     padding: 50px 15px;
     text-align: center
+    border-bottom: 1px solid #dcd9d9
 }
 
 #skills h2 {
@@ -780,6 +781,7 @@ footer {
     padding: 50px 15px;
     background: rgba(242, 242, 245);
     text-align: center
+    border-bottom: 1px solid #dcd9d9
 }
 
 #contact h2 {
