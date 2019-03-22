@@ -594,13 +594,13 @@ footer {
 }
 
 .project-image-2 {
-	display: inline-block;
+	display: block;
 	overflow: hidden;
 }
 
 .project-image-2 img {
 	width:100%;
-	height:100%;
+	height:auto;
 
 	-webkit-transition: all 1s ease; /* Safari and Chrome */
     -moz-transition: all 1s ease; /* Firefox */
