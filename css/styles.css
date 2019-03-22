@@ -604,20 +604,26 @@ footer {
 
 .project-image-2 {
 	display: inline-block;
+	overflow: hidden;
 }
 
 .project-image-2 img {
 	width:100%;
 	max-width: 512px;
+
+	-webkit-transition: all 1s ease; /* Safari and Chrome */
+    -moz-transition: all 1s ease; /* Firefox */
+    -ms-transition: all 1s ease; /* IE 9 */
+    -o-transition: all 1s ease; /* Opera */
+    transition: all 1s ease;
 }
 
-.project-image-2 img:hover {
-	border:0.5px solid rgba(55, 152, 219, 0.3);
-
-	-moz-transition: -moz-transform 0.2s ease-out;
-    -webkit-transition: -webkit-transform 0.2s ease-out;
-    -ms-transition: -ms-transform 0.2s ease-out;
-	transition: transform 0.2s ease-out;
+.project-image-2:hover img {
+	-webkit-transform:scale(1.1); /* Safari and Chrome */
+    -moz-transform:scale(1.1); /* Firefox */
+    -ms-transform:scale(1.1); /* IE 9 */
+    -o-transform:scale(1.1); /* Opera */
+    transform:scale(1.1);
 }
 
 .project-description {
