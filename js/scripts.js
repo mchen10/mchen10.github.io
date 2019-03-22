@@ -61,26 +61,9 @@
             $(this).addClass('vtimeline-content').wrap('<div class="vtimeline-point"><div class="vtimeline-block"></div></div>');
         });
 
-
-        var icon = 0;
         // Add icons to each block
         $this.find('.vtimeline-point').each(function() {
-            if (icon == 0) {
-                $(this).prepend('<div class="vtimeline-icon"><i class="fa fa-map-marker"></i></div>');
-                icon += 1;
-            } else if (icon == 1) {
-                $(this).prepend('<div class="vtimeline-icon"><i class="fa fa-map-marker"></i></div>');
-                icon += 1;
-            } else if (icon == 2) {
-                $(this).prepend('<div class="vtimeline-icon"><i class="fa fa-map-marker"></i></div>');
-                icon += 1;
-            } else if (icon == 3) {
-                $(this).prepend('<div class="vtimeline-icon"><i class="fa fa-map-marker"></i></div>');
-                icon += 1;
-            } else if (icon == 4) {
-                $(this).prepend('<div class="vtimeline-icon"><i class="fa fa-map-marker"></i></div>');
-                icon += 1;
-            }
+            $(this).prepend('<div class="vtimeline-icon"><i class="fa fa-map-marker"></i></div>');
         });
 
         // Add dates to the timeline if exists
