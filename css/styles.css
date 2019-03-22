@@ -392,7 +392,7 @@ footer {
     content: '';
     top: 0;
     bottom: 0;
-    left: 281px;
+    left: 280px;
     right: auto;
     height: 100%;
     width: 3px;
@@ -407,7 +407,7 @@ footer {
     height: 40px;
     background: #000;
     top: 100%;
-    left: 281px;
+    left: 280px;
 }
 
 .vtimeline-content {
