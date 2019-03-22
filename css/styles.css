@@ -454,8 +454,14 @@ footer {
     border-radius: 50%;
     float: left;
     z-index: 99;
-    margin-left: 280px
+    margin-left: 280px;
+    background:#fff;
     overflow:hidden;
+}
+
+.vtimeline-pic img {
+	width:100%;
+	height:auto;
 }
 
 .vtimeline-icon {
