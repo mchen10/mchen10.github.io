@@ -392,7 +392,7 @@ footer {
     content: '';
     top: 0;
     bottom: 0;
-    left: 283px;
+    left: 281px;
     right: auto;
     height: 100%;
     width: 3px;
@@ -407,7 +407,7 @@ footer {
     height: 40px;
     background: #000;
     top: 100%;
-    left: 283px;
+    left: 281px;
 }
 
 .vtimeline-content {
@@ -477,7 +477,7 @@ footer {
 	width:100%;
 	height:auto;
 
-	margin-top: 20%;
+	margin-top: 25%;
 }
 
 .vtimeline-img-4 {
@@ -485,6 +485,7 @@ footer {
 	height:auto;
 
 	margin-right: 5%;
+	margin-top: 5%;
 }
 
 .vtimeline-img-5 {
@@ -492,6 +493,7 @@ footer {
 	height:auto;
 
 	margin-right: 5%;
+	margin-top: 5%;
 }
 
 .vtimeline-icon {
