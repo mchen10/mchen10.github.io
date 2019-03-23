@@ -20,6 +20,11 @@ body.active {
     z-index: -1
 }
 
+.social img {
+	width:auto;
+	height:20px;
+}
+
 .no-js #experience-timeline>div {
     background: #fff;
     padding: 10px;
