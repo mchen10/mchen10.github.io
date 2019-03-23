@@ -20,11 +20,6 @@ body.active {
     z-index: -1
 }
 
-.social img {
-	width:auto;
-	height:20px;
-}
-
 .no-js #experience-timeline>div {
     background: #fff;
     padding: 10px;
@@ -216,6 +211,22 @@ footer {
 
 .social a:hover {
     color: #3498db
+}
+
+.social img {
+	width:auto;
+	height:20px;
+	margin-bottom: 1px;
+}
+
+.social .img-hover {
+	display: none;
+	position:absolute;
+	z-index:99;
+}
+
+.social .img-hover:hover {
+	display: inline;
 }
 
 .btn-rounded-white {
