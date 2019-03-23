@@ -226,7 +226,7 @@ footer {
 }
 
 .social .resume-icon:hover .img-hover {
-	display: inline;
+	display: block;
 }
 
 .btn-rounded-white {
