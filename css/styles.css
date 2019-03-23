@@ -216,7 +216,7 @@ footer {
 .social img {
 	width:auto;
 	height:20px;
-	margin-bottom: 1px;
+	margin-bottom: 4px;
 }
 
 .social .img-hover {
@@ -225,7 +225,7 @@ footer {
 	z-index:99;
 }
 
-.social .img-hover:hover {
+.social .resume-icon:hover .img-hover {
 	display: inline;
 }
 
