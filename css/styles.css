@@ -222,11 +222,13 @@ footer {
 .social .img-hover {
 	display: none;
 	position:absolute;
+	top:0;
+	left:0;
 	z-index:99;
 }
 
 .social .resume-icon:hover .img-hover {
-	display: block;
+	display: inline;
 }
 
 .btn-rounded-white {
