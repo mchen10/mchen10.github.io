@@ -219,6 +219,10 @@ footer {
 	margin-bottom: 4px;
 }
 
+.social .resume-icon {
+	position:relative;
+}
+
 .social .img-hover {
 	display: none;
 	position:absolute;
