@@ -226,7 +226,7 @@ footer {
 .social .img-hover {
 	display: none;
 	position:absolute;
-	bottom:14px;
+	bottom:10px;
 	left:10px;
 	z-index:99;
 }
