@@ -650,7 +650,17 @@ footer {
     border-radius: 4px
 }
 
-.project-row {
+.project-row-1 {
+	display:flex;
+	margin-bottom: 30px;
+}
+
+.project-row-2 {
+	display:flex;
+	margin-bottom: 30px;
+}
+
+.project-row-3 {
 	display:flex;
 	margin-bottom: 30px;
 }
