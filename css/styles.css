@@ -703,10 +703,34 @@ footer {
 	overflow: hidden;
 }
 
-.project-image-2 img {
+.project-row-1 .project-image-2 img {
 	width:100%;
 	height:auto;
-	max-height:277px;
+	max-height:280px;
+
+	-webkit-transition: all 1s ease; /* Safari and Chrome */
+    -moz-transition: all 1s ease; /* Firefox */
+    -ms-transition: all 1s ease; /* IE 9 */
+    -o-transition: all 1s ease; /* Opera */
+    transition: all 1s ease;
+}
+
+.project-row-2 .project-image-2 img {
+	width:100%;
+	height:auto;
+	max-height:276px;
+
+	-webkit-transition: all 1s ease; /* Safari and Chrome */
+    -moz-transition: all 1s ease; /* Firefox */
+    -ms-transition: all 1s ease; /* IE 9 */
+    -o-transition: all 1s ease; /* Opera */
+    transition: all 1s ease;
+}
+
+.project-row-3 .project-image-2 img {
+	width:100%;
+	height:auto;
+	max-height:350px;
 
 	-webkit-transition: all 1s ease; /* Safari and Chrome */
     -moz-transition: all 1s ease; /* Firefox */
