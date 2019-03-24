@@ -706,6 +706,7 @@ footer {
 .project-image-2 img {
 	width:100%;
 	height:auto;
+	max-height:277px;
 
 	-webkit-transition: all 1s ease; /* Safari and Chrome */
     -moz-transition: all 1s ease; /* Firefox */
